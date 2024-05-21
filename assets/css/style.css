@@ -1,0 +1,42 @@
+nav div a{
+    font-size: x-large;
+}
+nav {
+    font-size: x-large;
+}
+.custom {
+    border: 1px solid #000000;
+    border-radius: 4px;
+  
+}
+.add-project-btn {
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+}
+h5{
+    display: flex;
+    justify-content: center; 
+}
+#bn {
+    border: 5px ;
+    border-color: rgb(255, 0, 0);
+    color: red;
+    font-size: large;
+}
+#avatar {
+    float: right;
+    width: 70px;
+    transition: transform 0.2s;
+}
+img:hover {
+    transform: scale(1.2);
+}
+
+.col:hover {
+    opacity: 80%;
+}
