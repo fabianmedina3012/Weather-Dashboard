@@ -16,7 +16,8 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-## images on the page
+## Images on the page
 ![week 6](https://github.com/fabianmedina3012/Weather-Dashboard/assets/164245084/42bf1e1a-add1-491b-852c-bbd9f37d5cb3)
 
-## links 
+## Links 
+https://fabianmedina3012.github.io/Weather-Dashboard/
